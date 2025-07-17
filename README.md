@@ -30,7 +30,7 @@ openssl rsa -in keys/private.key -pubout -out keys/public.key
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/rs256-jwt-demo.git
+git clone https://github.com/sindhusid5/rs256-jwt-nodejs.git
 cd rs256-jwt-demo
 
 # Install dependencies
